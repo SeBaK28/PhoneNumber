@@ -1,0 +1,8 @@
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Sebastian\Programowanie\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
